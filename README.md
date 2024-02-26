@@ -22,11 +22,13 @@ Simón Esteban Peralta Baquero.
     comprensión del mismo.
 
 3). ¿Qué es Continuous Integration/Continuous Deployment?
-    R/    - Continuous Integration (CI): Es un proceso en donde los
+
+  3.1). Continuous Integration (CI): Es un proceso en donde los
         desarrolladores fusionan con frecuencia los cambios de 
         código en un repositorio central en donde luego
         se ejecutan compilaciones y pruebas.
-          - Coninuous Deployment (CD): Es un proceso de publicación de 
+           
+  3.2). Continuous Deployment (CD): Es un proceso de publicación de 
         software que emplea pruebas automatizadas para verificar si 
         los cambios en un código base son correctos y estables para 
         la implementación inmediatay autónoma en un entorno de producción.
